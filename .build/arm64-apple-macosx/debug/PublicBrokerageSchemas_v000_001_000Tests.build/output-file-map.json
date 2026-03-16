@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/master.swiftdeps"
+  },
+  "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Tests/PublicBrokerageSchemas_v000_001_000Tests/PublicBrokerageSchemaTests.swift": {
+    "dependencies": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/PublicBrokerageSchemaTests.d",
+    "object": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/PublicBrokerageSchemaTests.swift.o",
+    "swiftmodule": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/PublicBrokerageSchemaTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/PublicBrokerageSchemaTests.swiftdeps",
+    "diagnostics": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/PublicBrokerageSchemaTests.dia"
+  }
+}

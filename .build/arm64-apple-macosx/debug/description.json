@@ -1,0 +1,733 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public-brokerage-schemas-v000-001-000PackageTests.xctest/Contents/MacOS/public-brokerage-schemas-v000-001-000PackageTests",
+      "packagePath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000",
+      "productName" : "public-brokerage-schemas-v000-001-000PackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.PublicBrokerageSchemas_v000_001_000-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/sources",
+      "importPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/activity-service/AccountHistory.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/order-service/Order.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/positions-service/Portfolio.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/profile-service/Account.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/quote-service/Instrument.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/quote-service/Quote.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/swift-version--FE76C4972A19952.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PublicBrokerageSchemas_v000_001_000",
+      "moduleOutputPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules/PublicBrokerageSchemas_v000_001_000.swiftmodule",
+      "objects" : [
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/AccountHistory.swift.o",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Order.swift.o",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Portfolio.swift.o",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Account.swift.o",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Instrument.swift.o",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Quote.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j20",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/include/PublicBrokerageSchemas_v000_001_000-Swift.h",
+        "-swift-version",
+        "6",
+        "-plugin-path",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "public_brokerage_schemas_v000_001_000"
+      ],
+      "outputFileMapPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/AccountHistory.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Order.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Portfolio.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Account.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Instrument.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Quote.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules/PublicBrokerageSchemas_v000_001_000.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/activity-service/AccountHistory.swift",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/order-service/Order.swift",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/positions-service/Portfolio.swift",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/profile-service/Account.swift",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/quote-service/Instrument.swift",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/quote-service/Quote.swift"
+      ],
+      "tempsPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.PublicBrokerageSchemas_v000_001_000Tests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/sources",
+      "importPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Tests/PublicBrokerageSchemas_v000_001_000Tests/PublicBrokerageSchemaTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/swift-version--FE76C4972A19952.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules/PublicBrokerageSchemas_v000_001_000.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "PublicBrokerageSchemas_v000_001_000Tests",
+      "moduleOutputPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules/PublicBrokerageSchemas_v000_001_000Tests.swiftmodule",
+      "objects" : [
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/PublicBrokerageSchemaTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j20",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "6",
+        "-plugin-path",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "public_brokerage_schemas_v000_001_000"
+      ],
+      "outputFileMapPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/PublicBrokerageSchemaTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules/PublicBrokerageSchemas_v000_001_000Tests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Tests/PublicBrokerageSchemas_v000_001_000Tests/PublicBrokerageSchemaTests.swift"
+      ],
+      "tempsPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.public-brokerage-schemas-v000-001-000PackageTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/sources",
+      "importPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public-brokerage-schemas-v000-001-000PackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/swift-version--FE76C4972A19952.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules/PublicBrokerageSchemas_v000_001_000Tests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "public_brokerage_schemas_v000_001_000PackageTests",
+      "moduleOutputPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules/public_brokerage_schemas_v000_001_000PackageTests.swiftmodule",
+      "objects" : [
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j20",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/include/public-brokerage-schemas-v000-001-000PackageTests-Swift.h",
+        "-plugin-path",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "public_brokerage_schemas_v000_001_000"
+      ],
+      "outputFileMapPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules/public_brokerage_schemas_v000_001_000PackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public-brokerage-schemas-v000-001-000PackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "PublicBrokerageSchemas_v000_001_000" : [
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "PublicBrokerageSchemas_v000_001_000",
+      "-package-name",
+      "public_brokerage_schemas_v000_001_000",
+      "-c",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/activity-service/AccountHistory.swift",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/order-service/Order.swift",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/positions-service/Portfolio.swift",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/profile-service/Account.swift",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/quote-service/Instrument.swift",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/quote-service/Quote.swift",
+      "-I",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j20",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/include/PublicBrokerageSchemas_v000_001_000-Swift.h",
+      "-swift-version",
+      "6",
+      "-plugin-path",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "public_brokerage_schemas_v000_001_000",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "PublicBrokerageSchemas_v000_001_000Tests" : [
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "PublicBrokerageSchemas_v000_001_000Tests",
+      "-package-name",
+      "public_brokerage_schemas_v000_001_000",
+      "-c",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Tests/PublicBrokerageSchemas_v000_001_000Tests/PublicBrokerageSchemaTests.swift",
+      "-I",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j20",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "6",
+      "-plugin-path",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "public_brokerage_schemas_v000_001_000",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "public_brokerage_schemas_v000_001_000PackageTests" : [
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "public_brokerage_schemas_v000_001_000PackageTests",
+      "-package-name",
+      "public_brokerage_schemas_v000_001_000",
+      "-c",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public-brokerage-schemas-v000-001-000PackageTests.derived/runner.swift",
+      "-I",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j20",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/include/public-brokerage-schemas-v000-001-000PackageTests-Swift.h",
+      "-plugin-path",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "public_brokerage_schemas_v000_001_000",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "PublicBrokerageSchemas_v000_001_000" : [
+
+    ],
+    "PublicBrokerageSchemas_v000_001_000Tests" : [
+      "PublicBrokerageSchemas_v000_001_000"
+    ],
+    "public_brokerage_schemas_v000_001_000PackageTests" : [
+      "PublicBrokerageSchemas_v000_001_000Tests",
+      "PublicBrokerageSchemas_v000_001_000"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public-brokerage-schemas-v000-001-000PackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public-brokerage-schemas-v000-001-000PackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/activity-service/AccountHistory.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/order-service/Order.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/positions-service/Portfolio.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/profile-service/Account.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/quote-service/Instrument.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Sources/PublicBrokerageSchemas_v000_001_000/quote-service/Quote.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/sources"
+    },
+    "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/Tests/PublicBrokerageSchemas_v000_001_000Tests/PublicBrokerageSchemaTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/sources"
+    },
+    "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public-brokerage-schemas-v000-001-000PackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Account.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/AccountHistory.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Instrument.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Order.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Portfolio.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000.build/Quote.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/PublicBrokerageSchemas_v000_001_000Tests.build/PublicBrokerageSchemaTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/runner.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public-brokerage-schemas-v000-001-000PackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public-brokerage-schemas-v000-001-000PackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/sources"
+    },
+    "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/swift-version--FE76C4972A19952.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode-26.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/swift-version--FE76C4972A19952.txt"
+    }
+  }
+}

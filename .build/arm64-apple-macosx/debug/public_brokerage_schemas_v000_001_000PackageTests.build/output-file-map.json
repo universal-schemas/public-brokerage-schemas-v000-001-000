@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/master.swiftdeps"
+  },
+  "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public-brokerage-schemas-v000-001-000PackageTests.derived/runner.swift": {
+    "dependencies": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/runner.d",
+    "object": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/sonoma/mono/private/universal/substrate/collectives/universal-schemas/private/universal/schemas/public-brokerage-schemas/v0.1.0/spm/public-brokerage-schemas-v000-001-000/.build/arm64-apple-macosx/debug/public_brokerage_schemas_v000_001_000PackageTests.build/runner.dia"
+  }
+}
